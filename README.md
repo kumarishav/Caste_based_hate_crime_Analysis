@@ -14,16 +14,20 @@ This project uses Streamlit to create an engaging user interface, allowing users
 
 ## Deployed App
 You can access the deployed application here:
-- **Frontend:** [Link to deployed Streamlit app]()
+- **🚔Crime Dashboard:** [Link to deployed Streamlit app](https://data-detectives.streamlit.app/)
 
 ## Directory Structure
 ```
-crime-analysis-dashboard/
-├─ dataset/
-│  ├─ crime_by_district_rt.csv
+Caste_based_hate_crime_Analysis/
+├─ pages/
+│  ├─ 2_🚓Crime_Dashboard.py
+│  ├─ 3_📈Trends_Dashoard.py
+├─ Menu.py
 ├─ Preprocessor.py
-├─  main.py
-
+├─ README.md
+├─ crime_by_district_rt_1.csv
+├─ group_logo.jpg
+├─ requirements.txt
 ```
 
 ## Video Walkthrough of the Project
@@ -47,11 +51,11 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/your-repo-link
+    git clone https://github.com/agarwalmohit26/Caste_based_hate_crime_Analysis.git
     ```
 2. Navigate to the project directory
     ```bash
-    cd crime-analysis-dashboard
+    cd Caste_based_hate_crime_Analysis
     ```
 3. Install the required dependencies
     ```bash
@@ -59,7 +63,7 @@ To set up the project on your local machine, follow these steps:
     ```
 4. Run the Streamlit app
     ```bash
-    streamlit run app/main.py
+    streamlit run Caste_based_hate_crime_Analysis/Menu.py
     ```
 
 ## Usage
@@ -78,5 +82,31 @@ No external APIs are used in this project. All data is sourced from a local CSV 
 - **Pandas** - for data manipulation and cleaning.
 - **Seaborn, Matplotlib, Plotly** - for data visualization.
 - **Python** - backend logic for processing and filtering the dataset.
+
+# Key Dates and Activities
+
+## 1st October 2024:
+- **Logo Creation**: Designed the project logo.
+  ![Project Logo](group_logo.jpg)
+
+- **GitHub Repository Setup**: Created the repository to document and share the project.
+
+## 2nd October 2024:
+- **Reading Datasets**: Imported relevant datasets into the project.
+- **Data Merging**: Combined datasets as per project requirements.
+- **Data Insights**: Extracted specific insights from different columns required for analysis.
+- **Correlation Analysis**: Identified correlations between different columns to assess attribute dependencies.
+- **Data Visualization**: Visualized key attributes to facilitate data-driven decisions.
+
+## 3rd October 2024:
+- **Extracting Insights**: Gaining valuable insights from merged datasets.
+- **Data Visualization**: Employing appropriate visualization methods to present the data effectively.
+- **Error Rectification**: Fixing errors related to datetime formats.
+- **Streamlit Application**: Initiating the development of an interactive Streamlit app.
+
+## 4th October 2024:
+- **Key Insights Choosing**: Extracting key insights for dashboard building.
+- **Streamlit Application**: Building all dashboard features and making it interactive.
+- **Discussing Main Points**: Discussing main key points
   
 ---
