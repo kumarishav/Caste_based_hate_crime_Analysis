@@ -14,11 +14,11 @@ This project uses Streamlit to create an engaging user interface, allowing users
 
 ## Deployed App
 You can access the deployed application here:
-- **🚔Crime Dashboard:** [[Link to deployed Streamlit app](https://data-detectives.streamlit.app/)]()
+- **🚔Crime Dashboard:** [Link to deployed Streamlit app](https://data-detectives.streamlit.app/)
 
 ## Directory Structure
 ```
-crime-analysis-dashboard/
+Caste_based_hate_crime_Analysis/
 ├─ pages/
 │  ├─ 2_🚓Crime_Dashboard.py
 │  ├─ 3_📈Trends_Dashoard.py
