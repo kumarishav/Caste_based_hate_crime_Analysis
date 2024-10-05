@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 def load_data():
-    return pd.read_csv("project\crime_by_district_rt_1.csv")
+    return pd.read_csv("crime_by_district_rt_1.csv")
 
 
 df_crime_type = ['Murder', 'Assault on women', 'Kidnapping and Abduction', 'Dacoity',  
