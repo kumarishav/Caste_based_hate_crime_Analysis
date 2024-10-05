@@ -87,7 +87,8 @@ No external APIs are used in this project. All data is sourced from a local CSV 
 
 ## 1st October 2024:
 - **Logo Creation**: Designed the project logo.
-    <img src="group_logo.jpg" alt="Project Logo" width="300"/>
+### Project Logo
+<img src="group_logo.jpg" alt="Project Logo" width="150"/>
 
 - **GitHub Repository Setup**: Created the repository to document and share the project.
 
