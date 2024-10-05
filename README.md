@@ -14,16 +14,20 @@ This project uses Streamlit to create an engaging user interface, allowing users
 
 ## Deployed App
 You can access the deployed application here:
-- **Frontend:** [Link to deployed Streamlit app]()
+- **🚔Crime Dashboard:** [[Link to deployed Streamlit app](https://data-detectives.streamlit.app/)]()
 
 ## Directory Structure
 ```
 crime-analysis-dashboard/
-├─ dataset/
-│  ├─ crime_by_district_rt.csv
+├─ pages/
+│  ├─ 2_🚓Crime_Dashboard.py
+│  ├─ 3_📈Trends_Dashoard.py
+├─ Menu.py
 ├─ Preprocessor.py
-├─  main.py
-
+├─ README.md
+├─ crime_by_district_rt_1.csv
+├─ group_logo.jpg
+├─ requirements.txt
 ```
 
 ## Video Walkthrough of the Project
