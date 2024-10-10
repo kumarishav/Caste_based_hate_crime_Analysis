@@ -32,7 +32,7 @@ Caste_based_hate_crime_Analysis/
 
 ## Video Walkthrough of the Project
 Watch a short video walkthrough of the app's features and functionality:
-[Link to video]()
+[Link to video](https://youtu.be/9cKo2UWNtyg)
 
 ## Features
 This dashboard offers the following features:
