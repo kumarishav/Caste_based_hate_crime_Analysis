@@ -1,7 +1,3 @@
-
-
----
-
 # Caste Based Hate Crime Analysis Dashboard
 
 ## Introduction
